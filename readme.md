@@ -13,4 +13,4 @@ Run the odered dithering process to souce.
 Convert it into something nice.
 1. comile.bat
 Compile main.cu code.
-(you have to be able to run nvcc.)
+(you have to be able to run nvcc and use opencv2.)
